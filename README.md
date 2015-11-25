@@ -1,8 +1,8 @@
-# Python-Sine-Wave-as-Rotation
-
 ## Sine Wave as Rotation
 ####Using python turtle graphics.
 Nothing fancy, just part of my learning process. Could be a useful teaching tool.
+
+![Screenshot](screenshot.png)
 
 	import turtle
 	import math
@@ -53,4 +53,3 @@ Nothing fancy, just part of my learning process. Could be a useful teaching tool
 	    line.goto(-286, y)
 	    time.goto(i-325, 0)
 	wn.exitonclick()
-

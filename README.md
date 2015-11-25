@@ -2,6 +2,8 @@
 ####Using python turtle graphics.
 Nothing fancy, just part of my learning process. Could be a useful teaching tool.
 
+The python script animates a rotating cicrle seen from the front (green) and side (blue) and the passage of time (yellow arrow). A sine wave is traced as the script executes.  
+
 ![Screenshot](screenshot.png)
 
 	import turtle
